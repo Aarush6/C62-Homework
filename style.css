@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    color: purple;
+}
+.1{
+    width: 150px;
+    height: 150px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.names{
+    font-family: cursive;
+    font-size: 15px;
+    font-variant: small-caps;
+    font-weight: 100;
+    color: black;!important
+}
