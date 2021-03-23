@@ -1,21 +1,30 @@
 body{
-    background-color: aqua;
-    text-align: center;
-    color: purple;
+    color: aqua;
 }
-.1{
+
+.1 {
     width: 150px;
     height: 150px;
     margin-left: 10px;
     margin-right: 10px;
     padding-left: 10px;
     padding-right: 10px;
-    
+
 }
-.names{
+
+.carousel-content {
     font-family: cursive;
     font-size: 15px;
     font-variant: small-caps;
     font-weight: 100;
-    color: black;!important
+    color: black;
+     !important
+}
+
+#myCarousel {
+    background-color: aquamarine;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
