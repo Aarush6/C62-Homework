@@ -1,5 +1,6 @@
 body{
-    color: aqua;
+    background-color: aquamarine;
+    text-align: center;
 }
 
 .1 {
@@ -17,12 +18,10 @@ body{
     font-size: 15px;
     font-variant: small-caps;
     font-weight: 100;
-    color: black;
-     !important
+    
 }
 
 #myCarousel {
-    background-color: aquamarine;
     margin-left: 50px;
     margin-right: 50px;
     padding-left: 50px;
